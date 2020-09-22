@@ -1,0 +1,124 @@
+body{
+	background-image: url('learn.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+	align-items: center;
+}
+
+h1{ right: 50%;
+    align-content: center;
+	font-family:cursive;
+	color: white;
+	font-style:normal;
+	text-align: center;
+}
+
+h3{ right: 50%;
+    align-content: center;
+	font-family:cursive;
+	color: white;
+	text-align: center;
+}
+
+.container1{
+    align-content: center;
+	width:90%;
+	height:8%;
+	top: 3%;
+	left: 2.5%;
+	position: relative;
+	padding: 30px;
+	background: rgba(0,0,0,.6);
+	box-shadow: 0 5px 15px rgba(0,0,0,.8);
+	border-radius: 8px;
+	font-family:cursive;
+	font-size: 18px;
+	font-style: normal;
+	
+}
+
+.btncontainer{
+	
+	align-content: center;
+	width:90%;
+	height:5%;
+	top: 5%;
+	left: 2.5%;
+	position: relative;
+	padding: 20px 30px;
+	background: rgba(0,0,0,.6);
+	box-shadow: 0 5px 15px rgba(0,0,0,.8);
+	border-radius: 8px;
+	font-family:cursive;
+	font-size: 18px;
+	font-style: normal;
+}
+
+.container2{
+    align-content: center;
+	width:90%;
+	height:table;
+	top: 10%;
+	left: 2.5%;
+	position: relative;
+	padding: 30px;
+	background: rgba(0,0,0,.6);
+	box-shadow: 0 5px 15px rgba(0,0,0,.8);
+	border-radius: 8px;
+	font-family:cursive;
+	font-size: 18px;
+	font-style: normal;
+	
+}
+
+/*#tbl1{
+	align-content: center;
+	left: 2.5%;
+	position: relative;
+	padding: 30px;
+	border-radius: 8px;
+	font-family:cursive;
+	font-size: 18px;
+	font-style: normal;
+	color: white;
+}*/
+
+#tbl1{
+	width: 100%;
+	right: 50%;
+    align-content: center;
+	border:1;
+	font-family:cursive;
+	color: white;
+	text-align: center;
+}
+
+label{
+	left: 10%;
+	align-content: center;
+    color: white;
+    padding:5px 5px 5px 20px;
+  	display: inline-block; 
+}
+
+input{
+   right: 20%;
+   align-content: center;
+   padding: 5px 5px ;
+   border-radius: 4px;
+   cursor: pointer;
+    font-size: 14px;
+	display: inline-block; 
+}
+
+#btn1,#btn2{
+   right: 20%;
+   align-content: center;
+   padding: 8px 9px ;
+	border-bottom-style: inherit;
+   border-radius: 4px;
+   cursor: pointer;
+    font-size: 14px;
+	font-family:inherit;
+	display: inline-block; 
+}
